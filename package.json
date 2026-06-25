@@ -1,0 +1,13 @@
+{
+  "name": "secure-auth-system",
+  "version": "1.0.0",
+  "description": "A full-stack cybersecurity platform demonstrating authentication, authorization, threat detection, security monitoring, and AI-assisted security analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
