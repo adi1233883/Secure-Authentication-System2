@@ -3,7 +3,7 @@
 // crashing, so the rest of the app (especially the security features,
 // which must NEVER depend on AI) keeps working regardless.
 
-const Anthropic = require('@anthropic-ai/sdk');
+const { GoogleGenAI } = require('@google/genai');
 const env = require('../config/env');
 const logger = require('../utils/logger');
 
